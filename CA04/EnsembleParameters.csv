@@ -1,0 +1,5 @@
+﻿Classifier,n_estimator,Accuracy,Auc_score
+Random Forest,181,,
+AdaBoost,181,,
+Gradient Boost,181,,
+XGB,181,,
